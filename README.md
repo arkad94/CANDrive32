@@ -13,4 +13,4 @@ If you have any correction in the schematic please contact me!
 
 [3D VIEW: Work In Progress]
 
-![CANpulse32 Board](images\3DView_WIP_v0.91.png)
+![CANDrive32](images\3DView_WIP_v0.91.png)
