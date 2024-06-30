@@ -1,6 +1,12 @@
 # CANDrive32
 A BLDC Motor ESC Development Board with CAN functionality
 
+
+
+![CANDrive32](images/v0.91_30thJuneUpdate.png)
+
+[3D VIEW: Work In Progress]
+
 Current Status
 1. Schematic: v0.91, Validation Pending
 2. Layout: Work In Progress, Validation Pending
@@ -15,7 +21,5 @@ This ESC Also demonstrates usage of ideal diode for power selection purposes.
 
 If you have any correction in the schematic please contact me!
 
-[3D VIEW: Work In Progress]
 
-![CANDrive32](images/v0.91_30thJuneUpdate.png)
 
