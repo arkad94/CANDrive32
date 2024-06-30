@@ -17,4 +17,5 @@ If you have any correction in the schematic please contact me!
 
 [3D VIEW: Work In Progress]
 
-![CANDrive32](images\v0.91_30thJuneUpdate.png)
+![CANDrive32](images/v0.91_30thJuneUpdate.png)
+
